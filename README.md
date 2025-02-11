@@ -49,5 +49,8 @@ A linked list is a linear data structure consisting of nodes. Each node contains
   - Insert at any position
   - Delete a node
   - Traverse forward and backward in a circular manner
-###Clone this repository:
+## Installation
+Clone this repository:
+```bash
 https://github.com/Biraj-Bhatta/Linked_List.git
+
