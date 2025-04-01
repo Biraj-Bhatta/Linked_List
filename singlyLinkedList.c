@@ -68,7 +68,7 @@ void DeleteNth(struct node **head)
     {
         temp1 = temp1->next;
     }
-    printf("The deleted data is:%d ", temp1->data);
+    printf("The deleted data is:%d \n", temp1->data);
     struct node *temp = temp1;
     temp = temp->next;
     temp1->next = temp->next;
