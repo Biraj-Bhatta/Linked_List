@@ -144,7 +144,7 @@ void display(struct node **head)
         printf("%d<->", temp->data);
         temp = temp->next;
     }
-    printf("NULL\n\n");
+    printf("Beigning\n\n");
 }
 int main()
 {
